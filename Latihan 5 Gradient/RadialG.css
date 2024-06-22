@@ -1,0 +1,15 @@
+div {
+	width: 600px;
+	height: 300px;
+/*	dasar*/
+/*	background-image: radial-gradient(red, blue);*/
+
+/*	mutiple color*/
+/*	background-image: radial-gradient(red, green, blue);*/
+
+/*	color stop*/
+/*	background-image: radial-gradient(red 10%, green 20%, blue 80%);*/
+
+/*	sintaks lengkap*/
+	background-image: radial-gradient(circle farthest-side at top left, red, blue);
+}
